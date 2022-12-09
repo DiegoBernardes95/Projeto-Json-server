@@ -18,6 +18,6 @@ Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style=" width:60px;cursor:default"/>
 </div>
 
-## Servidor
+## 🖥️ Servidor
 
 Para acessar o servidor, <a href="https://projeto-json-server-ew3z.onrender.com/">clique aqui</a>.
