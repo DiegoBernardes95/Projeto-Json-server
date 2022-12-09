@@ -1,104 +1,104 @@
 {
-    "Acao": [
-        {
-            "id": 1,
-            "titulo": "John Wick: Um Novo Dia Para Matar",
-            "ano": "2017",
-            "direção": "Chad Stahelski",
-            "duração": "2h2m",
-            "avaliação": "89/100"
-        },
-        {
-            "id": 2,
-            "titulo": "Em Ritmo de Fuga",
-            "ano": "2017",
-            "direção": "Edgar Wright",
-            "duração": "1h55m",
-            "avaliação": "92/100"
-        },
-        {
-            "id": 3,
-            "titulo": "The Batman",
-            "ano": "2022",
-            "direção": "Matt Reeves",
-            "duração": "2h56m",
-            "avaliação": "85/100"
-        },
-        {
-            "id": 4,
-            "titulo": "Mad Max: Estrada da Fúria",
-            "ano": "2015",
-            "direção": "George Miller",
-            "duração": "2h00m",
-            "avaliação": "97/100"
-        }
-    ],
-    "Suspense": [
-        {
-            "id": 1,
-            "titulo": "Um Contratempo",
-            "ano": "2016",
-            "direção": "Oriol Paulo",
-            "duração": "1h46m",
-            "avaliação": "70/100"
-        },
-        {
-            "id": 2,
-            "titulo": "Fragmentado",
-            "ano": "2017",
-            "direção": "M. Night Shyamalan",
-            "duração": "1h57m",
-            "avaliação": "78/100"
-        },
-        {
-            "id": 3,
-            "titulo": "A ilha do Medo",
-            "ano": "2010",
-            "direção": "Martin Scorsese",
-            "duração": "2h18m",
-            "avaliação": "68/100"
-        },
-        {
-            "id": 4,
-            "titulo": "Nós",
-            "ano": "2019",
-            "direção": "Jordan Peele",
-            "duração": "2h1m",
-            "avaliação": "93/100"
-        }
-    ],
-    "Drama": [
-        {
-            "id": 1,
-            "titulo": "Um Sonho de Liberdade",
-            "ano": "1994",
-            "direção": "Frank Darabont",
-            "duração": "2h22m",
-            "avaliação": "91/100"
-        },
-        {
-            "id": 2,
-            "titulo": "Django Livre",
-            "ano": "2012",
-            "direção": "Quentin Tarantino",
-            "duração": "2h45m",
-            "avaliação": "87/100"
-        },
-        {
-            "id": 3,
-            "titulo": "Histórias Cruzadas",
-            "ano": "2011",
-            "direção": "Tate Taylor",
-            "duração": "2h26m",
-            "avaliação": "76/100"
-        },
-        {
-            "id": 4,
-            "titulo": "Intocáveis",
-            "ano": "2011",
-            "direção": "Olivier Nakache, Éric Toledano",
-            "duração": "1h52m",
-            "avaliação": "76/100"
-        }
-    ]
+  "Acao": [
+    {
+      "id": 1,
+      "titulo": "John Wick: Um Novo Dia Para Matar",
+      "ano": "2017",
+      "direção": "Chad Stahelski",
+      "duração": "2h2m",
+      "avaliação": "89/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Jogador Nº1",
+      "ano": "2018",
+      "direção": "Steven Spielberg",
+      "duração": "2h20m",
+      "avaliação": "72/100"
+    },
+    {
+      "id": 3,
+      "titulo": "The Batman",
+      "ano": "2022",
+      "direção": "Matt Reeves",
+      "duração": "2h56m",
+      "avaliação": "85/100"
+    },
+    {
+      "id": 4,
+      "titulo": "Mad Max: Estrada da Fúria",
+      "ano": "2015",
+      "direção": "George Miller",
+      "duração": "2h00m",
+      "avaliação": "97/100"
+    }
+  ],
+  "Suspense": [
+    {
+      "id": 1,
+      "titulo": "Um Contratempo",
+      "ano": "2016",
+      "direção": "Oriol Paulo",
+      "duração": "1h46m",
+      "avaliação": "70/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Fragmentado",
+      "ano": "2017",
+      "direção": "M. Night Shyamalan",
+      "duração": "1h57m",
+      "avaliação": "78/100"
+    },
+    {
+      "id": 3,
+      "titulo": "A ilha do Medo",
+      "ano": "2010",
+      "direção": "Martin Scorsese",
+      "duração": "2h18m",
+      "avaliação": "68/100"
+    },
+    {
+      "id": 4,
+      "titulo": "Nós",
+      "ano": "2019",
+      "direção": "Jordan Peele",
+      "duração": "2h1m",
+      "avaliação": "93/100"
+    }
+  ],
+  "Drama": [
+    {
+      "id": 1,
+      "titulo": "Um Sonho de Liberdade",
+      "ano": "1994",
+      "direção": "Frank Darabont",
+      "duração": "2h22m",
+      "avaliação": "91/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Django Livre",
+      "ano": "2012",
+      "direção": "Quentin Tarantino",
+      "duração": "2h45m",
+      "avaliação": "87/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Histórias Cruzadas",
+      "ano": "2011",
+      "direção": "Tate Taylor",
+      "duração": "2h26m",
+      "avaliação": "76/100"
+    },
+    {
+      "id": 4,
+      "titulo": "Intocáveis",
+      "ano": "2011",
+      "direção": "Olivier Nakache, Éric Toledano",
+      "duração": "1h52m",
+      "avaliação": "76/100"
+    }
+  ]
 }
