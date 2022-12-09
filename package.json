@@ -1,0 +1,25 @@
+{
+  "name": "projeto-json-server",
+  "version": "0.0.1",
+  "description": "Projeto do modulo 3 do curso de Desenvolvimento Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoBernardes95/Projeto-Json-server.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Diego Bernardes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoBernardes95/Projeto-Json-server/issues"
+  },
+  "homepage": "https://github.com/DiegoBernardes95/Projeto-Json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
