@@ -52,7 +52,7 @@
     },
     {
       "id": 3,
-      "titulo": "A ilha do Medo",
+      "titulo": "A Ilha do Medo",
       "ano": "2010",
       "direção": "Martin Scorsese",
       "duração": "2h18m",
@@ -99,6 +99,278 @@
       "direção": "Olivier Nakache, Éric Toledano",
       "duração": "1h52m",
       "avaliação": "76/100"
+    }
+  ],
+  "Fantasia": [
+    {
+      "id": 1,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "ano": "2001",
+      "direção": "Peter Jackson",
+      "duração": "2h58m",
+      "avaliação": "91/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+      "ano": "2004",
+      "direção": "Alfonso Cuarón",
+      "duração": "2h19m",
+      "avaliação": "90/100"
+    },
+    {
+      "id": 3,
+      "titulo": "O Labirinto do Fauno",
+      "ano": "2006",
+      "direção": "Guilhermo del Toro",
+      "duração": "1h59m",
+      "avaliação": "95/100"
+    },
+    {
+      "id": 4,
+      "titulo": "A Fantástica Fábrica de Chocolate",
+      "ano": "1971",
+      "direção": "Mel Stuart",
+      "duração": "1h38m",
+      "avaliação": "91/100"
+    }
+  ],
+  "Ficcao-Cientifica": [
+    {
+      "id": 1,
+      "titulo": "Matrix",
+      "ano": "1999",
+      "direção": "Lana Wachowski, Lilly Wachowski",
+      "duração": "2h16m",
+      "avaliação": "85/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Interestelar",
+      "ano": "2014",
+      "direção": "Christopher Nolan",
+      "duração": "2h49m",
+      "avaliação": "73/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Perdido em Marte",
+      "ano": "2015",
+      "direção": "Ridley Scott",
+      "duração": "2h24m",
+      "avaliação": "91/100"
+    },
+    {
+      "id": 4,
+      "titulo": "O Predestinado",
+      "ano": "2014",
+      "direção": "Michael Spierig, Peter Spierig",
+      "duração": "1h37m",
+      "avaliação": "84/100"
+    }
+  ],
+  "Terror": [
+    {
+      "id": 1,
+      "titulo": "Hereditário",
+      "ano": "2018",
+      "direção": "Ari Aster",
+      "duração": "2h7m",
+      "avaliação": "90/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Invocação do Mal",
+      "ano": "2013",
+      "direção": "James Wan",
+      "duração": "1h52m",
+      "avaliação": "86/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Corrente do Mal",
+      "ano": "2014",
+      "direção": "David Robert Mitchell",
+      "duração": "1h40m",
+      "avaliação": "95/100"
+    },
+    {
+      "id": 4,
+      "titulo": "Corra!",
+      "ano": "2017",
+      "direção": "Jordan Peele",
+      "duração": "1h44m",
+      "avaliação": "98/100"
+    }
+  ],
+  "Comedia":[
+    {
+      "id": 1,
+      "titulo": "O Auto da Compadecida",
+      "ano": "2000",
+      "direção": "Guel Arraes",
+      "duração": "1h44m",
+      "avaliação": "94/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Anjos da Lei",
+      "ano": "2012",
+      "direção": "Phill Lord, Chris Miller",
+      "duração": "1h49m",
+      "avaliação": "85/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Todo Mundo Quase Morto",
+      "ano": "2004",
+      "direção": "Edgar Wright",
+      "duração": "1h39m",
+      "avaliação": "92/100"
+    },    
+    {
+      "id": 4,
+      "titulo": "Se Beber, Não Case!",
+      "ano": "2009",
+      "direção": "Todd Phillips",
+      "duração": "1h40m",
+      "avaliação": "79/100"
+    }
+  ],
+  "Animacao": [
+    {
+      "id": 1,
+      "titulo": "Viva - A Vida É Uma Festa",
+      "ano": "2017",
+      "direção": "Adrian Molina, Lee Unkrich",
+      "duração": "1h45m",
+      "avaliação": "97/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Toy Story 3",
+      "ano": "2010",
+      "direção": "Lee Unkrich",
+      "duração": "1h43m",
+      "avaliação": "98/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Divertida Mente",
+      "ano": "2015",
+      "direção": "Peter Docker",
+      "duração": "1h35m",
+      "avaliação": "98/100"
+    },
+    {
+      "id": 4,
+      "titulo": "Up - Altas Aventuras",
+      "ano": "2009",
+      "direção": "Peter Docker",
+      "duração": "1h36m",
+      "avaliação": "98/100"
+    }
+  ],
+  "Romance": [
+    {
+      "id": 1,
+      "titulo": "Ela",
+      "ano": "2013",
+      "direção": "Spike Jonze",
+      "duração": "2h6m",
+      "avaliação": "94/100"
+    },
+    {
+      "id": 2,
+      "titulo": "A Culpa É das Estrelas",
+      "ano": "2014",
+      "direção": "Josh Bone",
+      "duração": "2h6m",
+      "avaliação": "81/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Cidade dos Anjos",
+      "ano": "1998",
+      "direção": "Brad Silberling",
+      "duração": "1h54m",
+      "avaliação": "58/100"
+    },
+    {
+      "id": 4,
+      "titulo": "Titanic",
+      "ano": "1997",
+      "direção": "James Cameron",
+      "duração": "3h14m",
+      "avaliação": "87/100"
+    }
+  ],
+  "Aventura": [
+    {
+      "id": 1,
+      "titulo": "Indiana Jones e Os Caçadores da Arca Perdida",
+      "ano": "1981",
+      "direção": "Steven Spielberg",
+      "duração": "1h55m",
+      "avaliação": "96/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Jurassic Park - Parque dos Dinossauros",
+      "ano": "1993",
+      "direção": "Steven Spielberg",
+      "duração": "2h7m",
+      "avaliação": "91/100"
+    },
+    {
+      "id": 3,
+      "titulo": "A Vida Secreta de Walter Mitty",
+      "ano": "2013",
+      "direção": "Ben Stiller",
+      "duração": "1h54m",
+      "avaliação": "52/100"
+    },
+    {
+      "id": 4,
+      "titulo": "As Aventuras de Pi",
+      "ano": "2012",
+      "direção": "Ang Lee",
+      "duração": "2h7m",
+      "avaliação": "86/100"
+    }
+  ],
+  "Biografia": [
+    {
+      "id": 1,
+      "titulo": "À Procura da Felicidade",
+      "ano": "2006",
+      "direção": "Gabriele Muccino",
+      "duração": "1h57m",
+      "avaliação": "67/100"
+    },
+    {
+      "id": 2,
+      "titulo": "Coração Valente",
+      "ano": "1995",
+      "direção": "Mel Gibson",
+      "duração": "2h58m",
+      "avaliação": "75/100"
+    },
+    {
+      "id": 3,
+      "titulo": "Um Sonho Possível",
+      "ano": "2009",
+      "direção": "John Lee Hancock",
+      "duração": "2h9m",
+      "avaliação": "66/100"
+    },
+    {
+      "id": 4,
+      "titulo": "O Lobo de Wall Street",
+      "ano": "2013",
+      "direção": "Martin Scorsese",
+      "duração": "3h",
+      "avaliação": "80/100"
     }
   ]
 }
