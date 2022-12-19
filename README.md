@@ -20,4 +20,4 @@ Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados
 
 ## 🖥️ Servidor
 
-Para acessar o servidor, <a href="https://projeto-json-server-ew3z.onrender.com/">clique aqui</a>.
+Para acessar o servidor, <a href="https://projeto-json-server-xp9l.onrender.com/">clique aqui</a>.
