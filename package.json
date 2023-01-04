@@ -1,6 +1,7 @@
 {
   "name": "projeto-json-server",
   "version": "1.0.0",
+  "type": "module",
   "dependencies": {
     "json-server": "^0.17.1"
   },
@@ -9,7 +10,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DiegoBernardes95/Projeto-Json-server.git"

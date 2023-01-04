@@ -6,7 +6,8 @@
       "ano": "2017",
       "direção": "Chad Stahelski",
       "duração": "2h2m",
-      "avaliação": "89/100"
+      "avaliação": "89/100",
+      "imagem": "https://m.media-amazon.com/images/I/91EG4ma8hvL._AC_SL1500_.jpg"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "ano": "2018",
       "direção": "Steven Spielberg",
       "duração": "2h20m",
-      "avaliação": "72/100"
+      "avaliação": "72/100",
+      "imagem": "https://m.media-amazon.com/images/I/91z865cb5-L._AC_SY879_.jpg"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "ano": "2022",
       "direção": "Matt Reeves",
       "duração": "2h56m",
-      "avaliação": "85/100"
+      "avaliação": "85/100",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/38/The_Batman_poster.jpg"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "ano": "2015",
       "direção": "George Miller",
       "duração": "2h00m",
-      "avaliação": "97/100"
+      "avaliação": "97/100",
+      "imagem": "https://images.justwatch.com/poster/8716677/s718/mad-max-estrada-da-furia.%7Bformat%7D"
     }
   ],
   "Suspense": [
@@ -40,7 +44,8 @@
       "ano": "2016",
       "direção": "Oriol Paulo",
       "duração": "1h46m",
-      "avaliação": "70/100"
+      "avaliação": "70/100",
+      "imagem": "https://cinema10.com.br/upload/filmes/filmes_15423_um-contratempo_Easy-Resize.com.jpg"
     },
     {
       "id": 2,
@@ -48,7 +53,8 @@
       "ano": "2017",
       "direção": "M. Night Shyamalan",
       "duração": "1h57m",
-      "avaliação": "78/100"
+      "avaliação": "78/100",
+      "imagem": "https://br.web.img2.acsta.net/pictures/17/02/24/16/32/482058.jpg"
     },
     {
       "id": 3,
@@ -56,7 +62,8 @@
       "ano": "2010",
       "direção": "Martin Scorsese",
       "duração": "2h18m",
-      "avaliação": "68/100"
+      "avaliação": "68/100",
+      "imagem": "https://assets.cinebelasartes.com.br/wp-content/uploads/2016/03/ILHA-DO-MEDO.jpg"
     },
     {
       "id": 4,
@@ -64,7 +71,8 @@
       "ano": "2019",
       "direção": "Jordan Peele",
       "duração": "2h1m",
-      "avaliação": "93/100"
+      "avaliação": "93/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/19/02/07/14/16/5034340.jpg"
     }
   ],
   "Drama": [
@@ -74,7 +82,8 @@
       "ano": "1994",
       "direção": "Frank Darabont",
       "duração": "2h22m",
-      "avaliação": "91/100"
+      "avaliação": "91/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/90/16/48/20083748.jpg"
     },
     {
       "id": 2,
@@ -82,7 +91,8 @@
       "ano": "2012",
       "direção": "Quentin Tarantino",
       "duração": "2h45m",
-      "avaliação": "87/100"
+      "avaliação": "87/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/90/07/53/20391069.jpg"
     },
     {
       "id": 3,
@@ -90,7 +100,8 @@
       "ano": "2011",
       "direção": "Tate Taylor",
       "duração": "2h26m",
-      "avaliação": "76/100"
+      "avaliação": "76/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/87/36/77/20028823.jpg"
     },
     {
       "id": 4,
@@ -98,7 +109,8 @@
       "ano": "2011",
       "direção": "Olivier Nakache, Éric Toledano",
       "duração": "1h52m",
-      "avaliação": "76/100"
+      "avaliação": "76/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/89/89/00/20143859.jpg"
     }
   ],
   "Fantasia": [
@@ -108,7 +120,8 @@
       "ano": "2001",
       "direção": "Peter Jackson",
       "duração": "2h58m",
-      "avaliação": "91/100"
+      "avaliação": "91/100",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg"
     },
     {
       "id": 2,
@@ -116,7 +129,9 @@
       "ano": "2004",
       "direção": "Alfonso Cuarón",
       "duração": "2h19m",
-      "avaliação": "90/100"
+      "avaliação": "90/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/93/88/04/20282944.jpg"
+
     },
     {
       "id": 3,
@@ -124,7 +139,8 @@
       "ano": "2006",
       "direção": "Guilhermo del Toro",
       "duração": "1h59m",
-      "avaliação": "95/100"
+      "avaliação": "95/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/87/14/49/19872468.jpg"
     },
     {
       "id": 4,
@@ -132,7 +148,8 @@
       "ano": "1971",
       "direção": "Mel Stuart",
       "duração": "1h38m",
-      "avaliação": "91/100"
+      "avaliação": "91/100",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/61/33/20208868.jpg"
     }
   ],
   "Ficcao-Cientifica": [
@@ -142,7 +159,8 @@
       "ano": "1999",
       "direção": "Lana Wachowski, Lilly Wachowski",
       "duração": "2h16m",
-      "avaliação": "85/100"
+      "avaliação": "85/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/91/08/82/20128877.JPG"
     },
     {
       "id": 2,
@@ -150,7 +168,8 @@
       "ano": "2014",
       "direção": "Christopher Nolan",
       "duração": "2h49m",
-      "avaliação": "73/100"
+      "avaliação": "73/100",
+      "imagem": "https://play-lh.googleusercontent.com/em2griqrHoxmxEss_WM5Fi2iqSEKrEfLNAltjX54lREOR0nz0du__KuSi2bA_YNjS4w"
     },
     {
       "id": 3,
@@ -158,7 +177,8 @@
       "ano": "2015",
       "direção": "Ridley Scott",
       "duração": "2h24m",
-      "avaliação": "91/100"
+      "avaliação": "91/100",
+      "imagem": "https://br.web.img2.acsta.net/pictures/16/01/18/18/57/082205.jpg"
     },
     {
       "id": 4,
@@ -166,7 +186,8 @@
       "ano": "2014",
       "direção": "Michael Spierig, Peter Spierig",
       "duração": "1h37m",
-      "avaliação": "84/100"
+      "avaliação": "84/100",
+      "imagem": "https://cineclick-static.flixmedia.cloud/1280/processed/615461cf-b76a-4952-a8b1-cddaaf35706f.webp"
     }
   ],
   "Terror": [
@@ -176,7 +197,8 @@
       "ano": "2018",
       "direção": "Ari Aster",
       "duração": "2h7m",
-      "avaliação": "90/100"
+      "avaliação": "90/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/18/06/14/13/11/1751062.jpg"
     },
     {
       "id": 2,
@@ -184,7 +206,8 @@
       "ano": "2013",
       "direção": "James Wan",
       "duração": "1h52m",
-      "avaliação": "86/100"
+      "avaliação": "86/100",
+      "imagem": "https://br.web.img2.acsta.net/pictures/210/166/21016629_2013062820083878.jpg"
     },
     {
       "id": 3,
@@ -192,7 +215,8 @@
       "ano": "2014",
       "direção": "David Robert Mitchell",
       "duração": "1h40m",
-      "avaliação": "95/100"
+      "avaliação": "95/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/15/05/15/13/59/490314.jpg"
     },
     {
       "id": 4,
@@ -200,17 +224,19 @@
       "ano": "2017",
       "direção": "Jordan Peele",
       "duração": "1h44m",
-      "avaliação": "98/100"
+      "avaliação": "98/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/17/04/19/21/08/577190.jpg"
     }
   ],
-  "Comedia":[
+  "Comedia": [
     {
       "id": 1,
       "titulo": "O Auto da Compadecida",
       "ano": "2000",
       "direção": "Guel Arraes",
       "duração": "1h44m",
-      "avaliação": "94/100"
+      "avaliação": "94/100",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bf/O_auto_da_compadecida.jpg"
     },
     {
       "id": 2,
@@ -218,7 +244,8 @@
       "ano": "2012",
       "direção": "Phill Lord, Chris Miller",
       "duração": "1h49m",
-      "avaliação": "85/100"
+      "avaliação": "85/100",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/89/61/19/20057844.jpg"
     },
     {
       "id": 3,
@@ -226,15 +253,17 @@
       "ano": "2004",
       "direção": "Edgar Wright",
       "duração": "1h39m",
-      "avaliação": "92/100"
-    },    
+      "avaliação": "92/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/14/09/06/06/08/169240.jpg"
+    },
     {
       "id": 4,
       "titulo": "Se Beber, Não Case!",
       "ano": "2009",
       "direção": "Todd Phillips",
       "duração": "1h40m",
-      "avaliação": "79/100"
+      "avaliação": "79/100",
+      "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/29/37/19874003.jpg"
     }
   ],
   "Animacao": [
@@ -244,7 +273,8 @@
       "ano": "2017",
       "direção": "Adrian Molina, Lee Unkrich",
       "duração": "1h45m",
-      "avaliação": "97/100"
+      "avaliação": "97/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg"
     },
     {
       "id": 2,
@@ -252,7 +282,8 @@
       "ano": "2010",
       "direção": "Lee Unkrich",
       "duração": "1h43m",
-      "avaliação": "98/100"
+      "avaliação": "98/100",
+      "imagem": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B954502EEF44542E6E0A107CBA36DCB134F150D3571EE80F8B2FDBCCC20CCDFA/scale?width=506&aspectRatio=2.00&format=jpeg"
     },
     {
       "id": 3,
@@ -260,7 +291,8 @@
       "ano": "2015",
       "direção": "Peter Docker",
       "duração": "1h35m",
-      "avaliação": "98/100"
+      "avaliação": "98/100",
+      "imagem": "https://tempodeser.org.br/wp-content/uploads/2015/09/DIVERTIDAMENTE_1.jpg"
     },
     {
       "id": 4,
@@ -268,7 +300,8 @@
       "ano": "2009",
       "direção": "Peter Docker",
       "duração": "1h36m",
-      "avaliação": "98/100"
+      "avaliação": "98/100",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/92/03/73/20176438.jpg"
     }
   ],
   "Romance": [
@@ -278,7 +311,8 @@
       "ano": "2013",
       "direção": "Spike Jonze",
       "duração": "2h6m",
-      "avaliação": "94/100"
+      "avaliação": "94/100",
+      "imagem": "https://br.web.img2.acsta.net/pictures/13/12/19/22/18/242683.jpg"
     },
     {
       "id": 2,
@@ -286,7 +320,8 @@
       "ano": "2014",
       "direção": "Josh Bone",
       "duração": "2h6m",
-      "avaliação": "81/100"
+      "avaliação": "81/100",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/08/The_Fault_in_Our_Stars_%28filme%29.jpg"
     },
     {
       "id": 3,
@@ -294,7 +329,8 @@
       "ano": "1998",
       "direção": "Brad Silberling",
       "duração": "1h54m",
-      "avaliação": "58/100"
+      "avaliação": "58/100",
+      "imagem": "https://br.web.img3.acsta.net/pictures/13/12/09/20/47/582823.jpg"
     },
     {
       "id": 4,
@@ -302,7 +338,8 @@
       "ano": "1997",
       "direção": "James Cameron",
       "duração": "3h14m",
-      "avaliação": "87/100"
+      "avaliação": "87/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/89/56/94/20055685.jpg"
     }
   ],
   "Aventura": [
@@ -312,7 +349,8 @@
       "ano": "1981",
       "direção": "Steven Spielberg",
       "duração": "1h55m",
-      "avaliação": "96/100"
+      "avaliação": "96/100",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/91/97/58/20172484.jpg"
     },
     {
       "id": 2,
@@ -320,7 +358,8 @@
       "ano": "1993",
       "direção": "Steven Spielberg",
       "duração": "2h7m",
-      "avaliação": "91/100"
+      "avaliação": "91/100",
+      "imagem": "https://i.pinimg.com/originals/51/ba/64/51ba64b2e61f820e0e86bdd2f4c6e92c.jpg"
     },
     {
       "id": 3,
@@ -328,7 +367,8 @@
       "ano": "2013",
       "direção": "Ben Stiller",
       "duração": "1h54m",
-      "avaliação": "52/100"
+      "avaliação": "52/100",
+      "imagem": "https://br.web.img2.acsta.net/pictures/210/513/21051366_20131021213607144.jpg"
     },
     {
       "id": 4,
@@ -336,7 +376,8 @@
       "ano": "2012",
       "direção": "Ang Lee",
       "duração": "2h7m",
-      "avaliação": "86/100"
+      "avaliação": "86/100",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/91/30/40/20328542.jpg"
     }
   ],
   "Biografia": [
@@ -346,7 +387,8 @@
       "ano": "2006",
       "direção": "Gabriele Muccino",
       "duração": "1h57m",
-      "avaliação": "67/100"
+      "avaliação": "67/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/86/96/34/20028591.jpg"
     },
     {
       "id": 2,
@@ -354,7 +396,8 @@
       "ano": "1995",
       "direção": "Mel Gibson",
       "duração": "2h58m",
-      "avaliação": "75/100"
+      "avaliação": "75/100",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/62/76/20105399.jpg"
     },
     {
       "id": 3,
@@ -362,7 +405,8 @@
       "ano": "2009",
       "direção": "John Lee Hancock",
       "duração": "2h9m",
-      "avaliação": "66/100"
+      "avaliação": "66/100",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/87/31/80/19874256.jpg"
     },
     {
       "id": 4,
@@ -370,7 +414,8 @@
       "ano": "2013",
       "direção": "Martin Scorsese",
       "duração": "3h",
-      "avaliação": "80/100"
+      "avaliação": "80/100",
+      "imagem": "https://leiturafilmica.com.br/wp-content/uploads/2015/02/o-lobo-de-wall-street.jpg"
     }
   ]
 }
