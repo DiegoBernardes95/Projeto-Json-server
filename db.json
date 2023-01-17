@@ -171,6 +171,11 @@
     {
       "usuario": "usuario4",
       "senha": "98765"
+    },
+    {
+      "usuario": "admin",
+      "senha": "admin",
+      "role": "admin"
     }
   ]
 }
